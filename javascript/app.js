@@ -1,3 +1,5 @@
+import "https://flackr.github.io/scroll-timeline/dist/scroll-timeline.js";
+
 let hamburgerBtn = document.querySelector(".hamburger-menu");
 let list = document.querySelector(".navbar-list");
 let list_link = document.querySelectorAll(".navbar-list li a");
